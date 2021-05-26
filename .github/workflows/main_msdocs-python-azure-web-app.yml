@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'msdocs-python-azure-web-app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_3cd6964aff284957873cfd7177241ca6 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ff76137217f84ebd84b3ce4f5703f4eb }}
